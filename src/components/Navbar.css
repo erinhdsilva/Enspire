@@ -1,0 +1,27 @@
+.logo{
+    margin-left:550px;
+}
+body{
+    /* filter: brightness(25%); 
+    background-image: url("C:\Users\Erin Helga D'Silva\Downloads\vecteezy_the-deep-ocean-view-illustration_273915\Ocean Background.jpg"); */
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url("C:\Users\Erin Helga D'Silva\OneDrive\Desktop\React\enspire\src\components\Ocean Background.jpg"); 
+    /* background-image: url("C:\Users\Erin Helga D'Silva\OneDrive\Desktop\React\enspire\src\pages\openingfinal.jpg"); */
+    background-size: cover;
+    font-family: f;
+    color:white;
+    
+  }
+  .text{
+    margin-left:400px;
+    font-size: 40px;
+  }
+  .letsgo{
+    color:white;
+    margin-left:735px;
+    font-size:30px;
+    text-decoration: none;
+  }
+  .letsgo:hover{
+    color:rgb(129, 167, 205);
+    
+  }
