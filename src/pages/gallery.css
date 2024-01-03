@@ -1,0 +1,106 @@
+.gallery{
+    position: absolute;
+    top:275px;
+    left:650px;
+     font-size:60px;
+     font-family:f;
+      width:100%;
+      height:100%;
+      color:white;
+}
+.image-gallery1{
+    position: absolute;
+    top:90px;
+     font-size:20px;
+      text-align:left;
+      margin-left:20px;
+      font-family: f;
+      width:350px;
+      height:200px;
+      border-radius: 5%;
+      border:2px solid black;
+}
+.image-gallery2{
+    position: absolute;
+    top:255px;
+     font-size:20px;
+      text-align:left;
+      margin-left:280px;
+      font-family: f;
+      width:350px;
+      height:200px;
+      border-radius: 5%;
+      border:2px solid black;
+}
+.image-gallery3{
+    position: absolute;
+    top:425px;
+     font-size:20px;
+      text-align:left;
+      margin-left:20px;
+      font-family: f;
+      width:350px;
+      height:200px;
+      border-radius: 5%;
+      border:2px solid black;
+}
+.image-gallery4{
+    position: absolute;
+    top:425px;
+     font-size:20px;
+      text-align:left;
+      margin-left:580px;
+      font-family: f;
+      width:350px;
+      height:200px;
+      border-radius: 5%;
+      border:2px solid black;
+}
+.image-gallery5{
+    position: absolute;
+    top:255px;
+     font-size:20px;
+      text-align:left;
+      margin-left:870px;
+      font-family: f;
+      width:350px;
+      height:200px;
+      border-radius: 5%;
+      border:2px solid black;
+}
+.image-gallery6{
+    position: absolute;
+    top:80px;
+     font-size:20px;
+      text-align:left;
+      margin-left:580px;
+      font-family: f;
+      width:350px;
+      height:200px;
+      border-radius: 5%;
+      border:2px solid black;
+}
+.image-gallery7{
+    position: absolute;
+    top:90px;
+     font-size:20px;
+      text-align:left;
+      margin-left:1130px;
+      font-family: f;
+      width:350px;
+      height:200px;
+      border-radius: 5%;
+      border:2px solid black;
+}
+.image-gallery8{
+    position: absolute;
+    top:425px;
+     font-size:20px;
+      text-align:left;
+      margin-left:1130px;
+      font-family: f;
+      width:350px;
+      height:200px;
+      border-radius: 5%;
+      border:2px solid black;
+}

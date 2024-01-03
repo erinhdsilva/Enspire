@@ -1,0 +1,122 @@
+h1{
+    position: absolute;
+    top:60px;
+    left:650px;
+     font-size:60px;
+     font-family:f;
+      width:100%;
+      height:100%;
+      color:white;
+}
+.image-events1{
+  position: absolute;
+  top:240px;
+   font-size:20px;
+    text-align:left;
+    margin-left:200px;
+    font-family: f;
+    width:200px;
+    height:200px;
+    border-radius: 5%;
+}
+.image-events1:hover{
+  border:5px solid rgb(22, 109, 150)
+}
+.image-events2:hover{
+  border:5px solid rgb(22, 109, 150)
+}
+.image-events3:hover{
+  border:5px solid rgb(22, 109, 150)
+}
+.image-events4:hover{
+  border:5px solid rgb(22, 109, 150)
+}
+.image-events5:hover{
+  border:5px solid rgb(22, 109, 150)
+}
+.image-events6:hover{
+  border:5px solid rgb(22, 109, 150)
+}
+.image-events7:hover{
+  border:5px solid rgb(22, 109, 150)
+}
+.image-events8:hover{
+  border:5px solid rgb(22, 109, 150)
+}
+.image-events2{
+    position: absolute;
+    top:240px;
+     font-size:20px;
+      text-align:left;
+      margin-left:500px;
+      font-family: f;
+      width:200px;
+      height:200px;
+      border-radius: 5%;
+  }
+  .image-events3{
+    position: absolute;
+    top:240px;
+     font-size:20px;
+      text-align:left;
+      margin-left:800px;
+      font-family: f;
+      width:200px;
+      height:200px;
+      border-radius: 5%;
+  }
+  .image-events4{
+    position: absolute;
+    top:240px;
+     font-size:20px;
+      text-align:left;
+      margin-left:1100px;
+      font-family: f;
+      width:200px;
+      height:200px;
+      border-radius: 5%;
+  }
+  .image-events7{
+    position: absolute;
+    top:500px;
+     font-size:20px;
+      text-align:left;
+      margin-left:1100px;
+      font-family: f;
+      width:200px;
+      height:200px;
+      border-radius: 5%;
+  }
+  .image-events5{
+    position: absolute;
+    top:500px;
+     font-size:20px;
+      text-align:left;
+      margin-left:200px;
+      font-family: f;
+      width:200px;
+      height:200px;
+      border-radius: 5%;
+  }
+  .image-events8{
+    position: absolute;
+    top:500px;
+     font-size:20px;
+      text-align:left;
+      margin-left:500px;
+      font-family: f;
+      width:200px;
+      height:200px;
+      border-radius: 5%;
+  }
+  .image-events6{
+    position: absolute;
+    top:500px;
+     font-size:20px;
+      text-align:left;
+      margin-left:800px;
+      font-family: f;
+      width:200px;
+      height:200px;
+      border-radius: 5%;
+  }

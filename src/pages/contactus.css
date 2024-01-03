@@ -1,0 +1,68 @@
+.email{
+    position: absolute;
+    top:220px;
+    left:550px;
+     font-size:30px;
+     font-family:f;
+      width:100px;
+      height:100px;
+      color:white;
+}
+.email1{
+    position: absolute;
+    top:250px;
+    left:550px;
+     font-size:20px;
+     font-family:f;
+      width:250px;
+      height:40px;
+      border:none;
+      /* border-bottom: 2px solid white; */
+      background-color: transparent !important;
+      color:white;
+}
+.email1:hover{
+    border-bottom: 2px solid white !important;
+}
+.message{
+    position: absolute;
+    top:320px;
+    left:550px;
+     font-size:30px;
+     font-family:f;
+      width:100px;
+      height:100px;
+      color:white; 
+}
+.message1{
+    position: absolute;
+    top:350px;
+    left:550px;
+     font-size:20px;
+     font-family:f;
+      width:350px;
+      height:60px;
+      border:none;
+      /* border-bottom: 2px solid white; */
+      background-color: transparent !important;
+      color:white;
+}
+.message1:hover{
+    border-bottom: 2px solid white !important;
+}
+.submit{
+    position: absolute;
+    top:450px;
+    left:600px;
+     font-size:30px;
+     font-family:f;
+      width:350px;
+      height:60px;
+      border:none;
+      /* border-bottom: 2px solid white; */
+      background-color: transparent !important;
+      color:white;
+}
+.submit:hover{
+    color:rgb(66, 135, 175)
+}

@@ -1,0 +1,20 @@
+body{
+    /* filter: brightness(25%); 
+    background-image: url("C:\Users\Erin Helga D'Silva\Downloads\vecteezy_the-deep-ocean-view-illustration_273915\Ocean Background.jpg"); */
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("openingpage.jpeg");
+    background-size: cover;
+    font-family: f;
+    color:white;
+    
+  }
+  .logo{
+    margin-left:525px;
+    margin-top:0px;
+  }
+.text{
+  margin-left:500px;
+  font-size: 30px;
+}
+.letsgo{
+  color:white;
+}

@@ -3,40 +3,38 @@
 }
 
 .App-logo {
+  margin-top:100px;
   height: 40vmin;
   pointer-events: none;
 }
-
+/* 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  
+ 
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: 30px;
   color: white;
+  font-family:f;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #022c38;
 }
 
-@keyframes App-logo-spin {
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
-}
-body{
-  background-image: url('https://imgs.search.brave.com/ts0yWjqQCL0mxempacQSUoUDWp6DazdPKxHbZGXQHS0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9lY29zeXN0ZW0t/dW5kZXJ3YXRlci1t/YXJpbmUtd29ybGQt/Y29sb3JmdWwtdHJv/cGljYWwtYmVhdXRp/ZnVsLW9jZWFuLWZp/c2hfMTU4ODYzLTM1/OTQuanBnP3NpemU9/NjI2JmV4dD1qcGc');
-  background-size: cover;
-}
+} */
